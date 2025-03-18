@@ -1,0 +1,44 @@
+🚀 Wikipedia Search Engine
+Welcome to my Wikipedia Search Engine, a fast and lightweight web app that allows users to search for Wikipedia articles dynamically! Built with HTML, CSS, and JavaScript, this project fetches search results in real-time using an API and presents them in a clean, user-friendly format.
+
+🌟 Features
+✅ Instant Search – Just type and hit Enter to get results instantly.
+✅ API Integration – Fetches search results dynamically from Wikipedia.
+✅ Spinner Animation – Displays a loading spinner while fetching results.
+✅ Responsive UI – Works smoothly on all screen sizes.
+✅ Optimized Performance – Uses debouncing to minimize unnecessary API calls.
+
+🔧 Technologies Used
+HTML – For structuring the UI
+CSS – For styling and responsiveness
+JavaScript (ES6) – For handling API calls and DOM manipulation
+Fetch API – For making asynchronous requests
+🎯 How It Works
+Enter a search term in the input field.
+Press Enter, and a loading spinner appears.
+The app fetches results from Wikipedia’s API.
+Results are displayed with titles, descriptions, and links.
+🚀 Live Demo
+👉 Check it out here (Deploy on GitHub Pages, Netlify, or Vercel and update the link!)
+
+📌 How to Run Locally
+Clone the repository:
+bash
+Copy
+Edit
+git clone https://github.com/your-username/wiki-search-engine.git
+Open the index.html file in your browser.
+Start searching for Wikipedia articles instantly!
+🌟 Future Enhancements
+🔹 Dark Mode Support 🌙
+🔹 Voice Search Integration 🎙️
+🔹 Enhanced UI with Animations ✨
+
+🚀 Star this repo ⭐ if you like it! Let's innovate together. 💡
+
+
+
+
+
+
+
